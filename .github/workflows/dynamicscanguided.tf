@@ -1,4 +1,4 @@
-name: Dynamic Guided Scans
+name: Dynamic Guided Scans 2
 
 on:
   #push:
